@@ -2,14 +2,11 @@
   <img src="https://raw.githubusercontent.com/creyli/assets/main/hero-banner.gif" alt="Creyli Banner" width="80%" />
 </p>
 
-<h1 align="center">🌟 Creyli</h1>
+<h1 align="center">PlankBase</h1>
 <h3 align="center">The Smart Bridge Between Brands & Influencers</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/creyli/creyli-web?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/creyli/creyli-web?style=for-the-badge" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=creyli.creyli" />
 </p>
 
 ---
