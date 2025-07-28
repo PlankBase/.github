@@ -19,7 +19,7 @@ We believe in a world where marketing is trust-driven and collaborative. Our mis
 
 ## 📦 What We're Building
 
-Creyli is a professional network, a campaign engine, and a collaboration hub — all rolled into one. Our platform enables:
+PlankBase is a professional network, a campaign engine, and a collaboration hub — all rolled into one. Our platform enables:
 
 - **Brands** to discover, vet, and collaborate with relevant influencers
 - **Influencers** to build verified profiles, showcase portfolios, and connect with purpose-driven campaigns
@@ -29,10 +29,10 @@ Creyli is a professional network, a campaign engine, and a collaboration hub —
 
 ## 🌍 Join the Movement
 
-Creyli is more than software — it's a growing ecosystem of creators and brands across industries and continents. We’re currently onboarding early adopters and launching our beta with strategic partners.
+PlankBase is more than software — it's a growing ecosystem of creators and brands across industries and continents. We’re currently onboarding early adopters and launching our beta with strategic partners.
 
 📬 **Want early access or to partner with us?**  
-[Email us](mailto:contact@creyli.com) or [visit PlankBase.com](https://PlankBase.com)
+[Email us](mailto:contact@PlankBase.com) or [visit PlankBase.com](https://PlankBase.com)
 
 ---
 
