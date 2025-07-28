@@ -40,8 +40,8 @@ Creyli is more than software — it's a growing ecosystem of creators and brands
 ## 📣 Stay Updated
 
 - [Website](https://PlankBase.com)
-- [LinkedIn](https://linkedin.com/company/PlankBase) *(placeholder)*
-- [x.com](https://x.com/PlankBase) *(placeholder)*
+- [LinkedIn](https://linkedin.com/company/PlankBase) 
+- [x.com](https://x.com/PlankBase)
 
 ---
 
